@@ -36,3 +36,5 @@ project/
 /ReleaseD3D11/
 /Editor refactor/
 /Documentation/
+D3D11/*
+OpenGL/*
